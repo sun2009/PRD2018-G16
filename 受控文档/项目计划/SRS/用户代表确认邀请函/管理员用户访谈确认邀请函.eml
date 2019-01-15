@@ -1,0 +1,101 @@
+Received: from m13-40.163.com (unknown [220.181.13.40])
+	by m176128.mail.qiye.163.com (Hmail) with ESMTP id 3B4CA521246
+	for <31602169@stu.zucc.edu.cn>; Thu, 20 Dec 2018 21:35:42 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=163.com;
+	s=s110527; h=Date:From:Subject:MIME-Version:Message-ID; bh=0xQ4T
+	lcO7zdnQ7kcV8ITmwX41djI1+c1qC+u6/WP+qI=; b=GpXu/HY2WEaU35JPJPn67
+	BTLanh8Fikw6RGMI/bdJppXYixpPrhVQf06/oJ7KJ0NwXICZ3Fj+rUezG7uflbRA
+	qjILxteWEovGFf/CuTOpt/0baCNfXsgD/0ZICI7PBGcu8wAKWX2OZHCHcMCM1pku
+	vDsGI9AAxZdQgUwa1lUREQ=
+Received: from ohllin$163.com ( [39.189.219.252] ) by ajax-webmail-wmsvr40
+ (Coremail) ; Thu, 20 Dec 2018 21:35:41 +0800 (CST)
+X-Originating-IP: [39.189.219.252]
+Date: Thu, 20 Dec 2018 21:35:41 +0800 (CST)
+From: =?GBK?B?xcvB1Q==?= <ohllin@163.com>
+To: =?GBK?B?s8LSwMLX?= <31602169@stu.zucc.edu.cn>
+Subject: =?GBK?B?UmU6udzA7dSx08O7p7fDzLjR+8fruq8=?=
+X-Priority: 3
+X-Mailer: Coremail Webmail Server Version SP_ntes V3.5 build
+ 20180927(cd7136b6) Copyright (c) 2002-2018 www.mailtech.cn 163com
+In-Reply-To: <ANAAEgDsBkLoEXADykKmaarP.1.1545312575138.Hmail.31602169@stu.zucc.edu.cn>
+References: <ANAAEgDsBkLoEXADykKmaarP.1.1545312575138.Hmail.31602169@stu.zucc.edu.cn>
+X-CM-CTRLDATA: bGu2PWZvb3Rlcl9odG09MTk0OTo1Ng==
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_361651_1161244885.1545312941592"
+MIME-Version: 1.0
+Message-ID: <51089039.174a1.167cbd43618.Coremail.ohllin@163.com>
+X-Coremail-Locale: zh_CN
+X-CM-TRANSID:KMGowAAHXKCtmhtcd1QoAA--.56696W
+X-CM-SenderInfo: xrkozxrq6rljoofrz/xtbBogIjuVaDzRTDwAACs3
+X-Coremail-Antispam: 1U5529EdanIXcx71UUUUU7vcSsGvfC2KfnxnUU==
+X-HM-Spam-Status: e1kIGBQJHllBS1VLV1koWUFKQktLSjdXWS1ZQUlXWQkOFx4IWUFZMjUtOj
+	cyP0FLVUtZBg++
+X-HM-Tid: 0a67cbd438bf9380kuws3b4ca521246
+
+------=_Part_361651_1161244885.1545312941592
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: base64
+
+usO1xMO7zsrM4qOsusO6w9e8sbjFtgoKCgoKCgrU2iAyMDE4LTEyLTIwIDIxOjI5OjM1o6wis8LS
+wMLXIiA8MzE2MDIxNjlAc3R1Lnp1Y2MuZWR1LmNuPiDQtLXAo7oKCtfwvrS1xMXLwdXRp73jo7oK
+ICAgICAgIMT6usMhztLDx8rHUFJEMjAxOC1HMTbQodfpo6zQodfps8nUsdPQo7qzwtLAwtejrLPC
+vNHD9KOs0OzYudzno6zC7dLmwcGjrMLA7M+93KGjCiAgICAgICDO0sPHwcu94rW9xPrU2rncwO3U
+sbe9w+a1xL6t0emxyL3PtuCjrLnK0fvE+rWjyM7O0sPHtcS53MDt1LHTw7untPqx7aGjCiAgICAg
+ICDO0sPHz+vUpNS8xPrW3MH5z8LO58vEteO9+NDQudzA7dSxt8PMuKOsz9bU2tPKvP64+sT6yLfI
+z8/CoaMKCiAgICAgICDO0sPH0KHX6df2tcTP7sS/yse7+dPaz+7Ev7XEsLjA/b3M0afPtc2zoaMK
+CiAgICAgICC0y7TO0fvH69b30qrKx8+jzfvE+tLUudzA7dSx08O7p7XEye233bbUztLDx7DvztLD
+x8P3yLe4w9PDu6fIurXE0OjH86GjCiAgICAgICC3w8y4tcTEv7XEo7rD98i3udzA7dSx0OjH88+4
+vdqjrMHLveLTw7un0OjH87PlzbsKCgogICAgICAg0tTPwsrHztLDx9e8sbi1xNK70KnOyszio6zE
++r/J0tTM4cew17yxuKO6CiAgICAgINb30qq21NPa0tTPwrmmxNy1xMP3yLejugogICAgICCwuMD9
+udzA7aOosPzAqLC4wP2hosq1wP2homJic6OpoaLTw7unudzA7aOosPzAqNPDu6e1xNT2yb64xLLp
+tcijqaGiyNXWvrncwO2jqLD8wKjI1da+tcTPwtTYoaLJz7Srus3JvrP9o6m1yKGjCgoKtMvWwqOs
+CiAgICC+tMDxo6EKLS0KCrPC0sDC1wo9PT09PT09PT09PT09PT09PT0Kt9bUuqO61eO9rbTz0aez
+x8rQ0afUurzGy+O31tS6CrDgvLajusjtuaQxNjAxCtGnusWjujMxNjAyMTY5CsGqz7W157uwo7ox
+OTk2NzMwODU3MAozMTYwMjE2OUB6dWNjLnN0dS5lZHUuY24KCgoK
+------=_Part_361651_1161244885.1545312941592
+Content-Type: text/html; charset=GBK
+Content-Transfer-Encoding: base64
+
+PGRpdiBzdHlsZT0ibGluZS1oZWlnaHQ6MS43O2NvbG9yOiMwMDAwMDA7Zm9udC1zaXplOjE0cHg7
+Zm9udC1mYW1pbHk6QXJpYWwiPrrDtcTDu87KzOKjrLrDusPXvLG4xbY8YnI+PGJyPjxicj48YnI+
+PGJyPjxkaXYgc3R5bGU9InBvc2l0aW9uOnJlbGF0aXZlO3pvb206MSI+PC9kaXY+PGRpdiBpZD0i
+ZGl2TmV0ZWFzZU1haWxDYXJkIj48L2Rpdj48YnI+1NogMjAxOC0xMi0yMCAyMToyOTozNaOsIrPC
+0sDC1yIgJmx0OzMxNjAyMTY5QHN0dS56dWNjLmVkdS5jbiZndDsg0LS1wKO6PGJyPiA8YmxvY2tx
+dW90ZSBpZD0iaXNSZXBseUNvbnRlbnQiIHN0eWxlPSJQQURESU5HLUxFRlQ6IDFleDsgTUFSR0lO
+OiAwcHggMHB4IDBweCAwLjhleDsgQk9SREVSLUxFRlQ6ICNjY2MgMXB4IHNvbGlkIj48ZGl2IHN0
+eWxlPSJsaW5lLWhlaWdodDoxLjc7Y29sb3I6IzAwMDAwMDtmb250LXNpemU6MTRweDtmb250LWZh
+bWlseTpBcmlhbCI+PGRpdiBzdHlsZT0ibGluZS1oZWlnaHQ6MS43O2NvbG9yOiMwMDAwMDA7Zm9u
+dC1zaXplOjE0cHg7Zm9udC1mYW1pbHk6QXJpYWwiPjxkaXY+1/C+tLXExcvB1dGnveOjujwvZGl2
+PjxkaXY+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7IMT6usMhztLDx8rHUFJE
+MjAxOC1HMTbQodfpo6zQodfps8nUsdPQo7qzwtLAwtejrLPCvNHD9KOs0OzYudzno6zC7dLmwcGj
+rMLA7M+93KGjPC9kaXY+PGRpdj4mbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsg
+ztLDx8HLveK1vcT61Nq53MDt1LG3vcPmtcS+rdHpsci9z7bgo6y5ytH7xPq1o8jOztLDx7XEudzA
+7dSx08O7p7T6se2hozwvZGl2PjxkaXY+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5i
+c3A7IM7Sw8fP69Sk1LzE+jxiPtbcwfnPws7ny8S14zwvYj69+NDQudzA7dSxt8PMuKOsz9bU2tPK
+vP64+sT6yLfIz8/CoaM8YnI+PC9kaXY+PGRpdj4mbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJz
+cDsmbmJzcDsgztLDx9Ch1+nX9rXEz+7Ev8rHu/nT2s/uxL+1xLC4wP29zNGnz7XNs6GjPGJyPjwv
+ZGl2PjxkaXY+PGRpdj4mbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsgtMu0ztH7
+x+vW99KqysfPo837xPrS1LncwO3UsdPDu6e1xMntt9221M7Sw8ew787Sw8fD98i3uMPTw7unyLq1
+xNDox/OhozwvZGl2PjxkaXY+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ILfD
+zLi1xMS/tcSjusP3yLe53MDt1LHQ6Mfzz7i92qOswcu94tPDu6fQ6Mfzs+XNuzwvZGl2PjxkaXY+
+PGJyPjwvZGl2PjxkaXY+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ICZuYnNwO9LUz8LK
+x87Sw8fXvLG4tcTSu9CpzsrM4qOsxPq/ydLUzOHHsNe8sbijujwvZGl2PjxkaXY+Jm5ic3A7Jm5i
+c3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7INb30qq21NPa0tTPwrmmxNy1xMP3yLejujwvZGl2PjxkaXY+
+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7ILC4wP253MDto6iw/MCosLjA/aGiyrXA/aGi
+YmJzo6mhotPDu6e53MDto6iw/MCo08O7p7XE1PbJvrjEsum1yKOpoaLI1da+udzA7aOosPzAqMjV
+1r61xM/C1NihosnPtKu6zcm+s/2jqbXIoaM8L2Rpdj48ZGl2Pjxicj48L2Rpdj48ZGl2IGRpcj0i
+bHRyIj60y9bCo6w8L2Rpdj48ZGl2IGRpcj0ibHRyIj4mbmJzcDsmbmJzcDsmbmJzcDsgvrTA8aOh
+PC9kaXY+LS08YnI+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6IHZlcmRhbmE7IGZvbnQtc2l6ZTog
+MTMuMzMzM3B4OyI+s8LSwMLXPC9kaXY+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6IHZlcmRhbmE7
+IGZvbnQtc2l6ZTogMTMuMzMzM3B4OyI+PT09PT09PT09PT09PT09PT09PC9kaXY+PGRpdiBzdHls
+ZT0iZm9udC1mYW1pbHk6IHZlcmRhbmE7IGZvbnQtc2l6ZTogMTMuMzMzM3B4OyI+t9bUuqO61eO9
+rbTz0aezx8rQ0afUurzGy+O31tS6PC9kaXY+PGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6IHZlcmRh
+bmE7IGZvbnQtc2l6ZTogMTMuMzMzM3B4OyI+sOC8tqO6yO25pDE2MDE8L2Rpdj48ZGl2IHN0eWxl
+PSJmb250LWZhbWlseTogdmVyZGFuYTsgZm9udC1zaXplOiAxMy4zMzMzcHg7Ij7Rp7rFo7ozMTYw
+MjE2OTwvZGl2PjxkaXYgc3R5bGU9ImZvbnQtZmFtaWx5OiB2ZXJkYW5hOyBmb250LXNpemU6IDEz
+LjMzMzNweDsiPsGqz7W157uwo7oxOTk2NzMwODU3MDwvZGl2PjxkaXYgc3R5bGU9ImZvbnQtZmFt
+aWx5OiB2ZXJkYW5hOyBmb250LXNpemU6IDEzLjMzMzNweDsiPjMxNjAyMTY5QHp1Y2Muc3R1LmVk
+dS5jbjwvZGl2PjwvZGl2PjwvZGl2Pjxicj48L2Rpdj48YnI+PC9ibG9ja3F1b3RlPjwvZGl2Pjxi
+cj48YnI+PHNwYW4gdGl0bGU9Im5ldGVhc2Vmb290ZXIiPjxwPiZuYnNwOzwvcD48L3NwYW4+
+------=_Part_361651_1161244885.1545312941592--
+
